@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/client/client.iml" filepath="$PROJECT_DIR$/client/client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client2/client2.iml" filepath="$PROJECT_DIR$/client2/client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client3/client3.iml" filepath="$PROJECT_DIR$/client3/client3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client4/client4.iml" filepath="$PROJECT_DIR$/client4/client4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server/server.iml" filepath="$PROJECT_DIR$/server/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server2/server2.iml" filepath="$PROJECT_DIR$/server2/server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server3/server3.iml" filepath="$PROJECT_DIR$/server3/server3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server4/server4.iml" filepath="$PROJECT_DIR$/server4/server4.iml" />
+    </modules>
+  </component>
+</project>

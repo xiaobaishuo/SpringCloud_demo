@@ -1,0 +1,10 @@
+# Project exclude paths
+/client/target/
+/client2/target/
+/client3/target/
+/client4/target/
+/eureka/target/
+/server/target/
+/server2/target/
+/server3/target/
+/server4/target/
